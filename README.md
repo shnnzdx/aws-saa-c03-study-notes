@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# AWS-EXAM
-=======
 # AWS SAA-C03 Study Notes
 
 A professional study guide for AWS Certified Solutions Architect Associate (SAA-C03), designed to demonstrate cloud solution architecture knowledge and application-focused learning.
@@ -46,4 +43,3 @@ This repository emphasizes design thinking for solution architects and cloud inf
 ## Disclaimer
 
 This repository contains only personal study notes and original content. It does not include exam dumps, copied practice questions, copyrighted materials, or official AWS exam content.
->>>>>>> 8b65d1a (Add AWS SAA-C03 study notes portfolio repository)
