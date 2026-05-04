@@ -1,0 +1,6 @@
+# Prevent accidental upload of private study materials
+*.pdf
+resources/
+dumps/
+exam-papers/
+practice-pdfs/
