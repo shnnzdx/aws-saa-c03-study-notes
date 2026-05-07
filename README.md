@@ -43,3 +43,8 @@ This repository emphasizes design thinking for solution architects and cloud inf
 ## Disclaimer
 
 This repository contains only personal study notes and original content. It does not include exam dumps, copied practice questions, copyrighted materials, or official AWS exam content.
+
+## Study roadmap
+
+- Start with the detailed execution list: `detailed-review-checklist.md`
+- Sprint plan (May 7-11, 2026): `personalized-exam-sprint-2026-05-07-to-05-11.md`
