@@ -48,3 +48,8 @@ This repository contains only personal study notes and original content. It does
 
 - Start with the detailed execution list: `detailed-review-checklist.md`
 - Sprint plan (May 7-11, 2026): `personalized-exam-sprint-2026-05-07-to-05-11.md`
+
+## Networking sprint
+
+- Core note: `notes/vpc-networking.md`
+- Drill sheet: `notes/networking-sprint-drills.md`
