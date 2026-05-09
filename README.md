@@ -1,55 +1,36 @@
-# AWS SAA-C03 Study Notes
+﻿# AWS SAA-C03 Study Notes
 
-A professional study guide for AWS Certified Solutions Architect Associate (SAA-C03), designed to demonstrate cloud solution architecture knowledge and application-focused learning.
+Structured study repository for AWS Certified Solutions Architect Associate (SAA-C03), focused on architecture decision-making and exam-oriented review.
 
-## Why I built this repository
+## Repository Layout
 
-This repository captures my structured learning path for core AWS architecture concepts, service design patterns, and practical decision-making principles. It serves as a portfolio asset for roles in cloud architecture, solution design, and cloud engineering.
+- `exam-overview.md`: exam scope and domain focus
+- `architecture-patterns.md`: common architecture patterns and trade-offs
+- `service-comparison.md`: service selection comparisons
+- `notes/`: topic notes and networking track
+- `study-plans/`: detailed checklist and sprint plans
+- `practice-reflection/`: mistake summaries and reflections
+- `diagrams/`: architecture diagrams
+- `tools/`: helper scripts/notebooks for repo workflow
 
-## Topics covered
+## Quick Start
 
-- AWS exam overview and learning scope
-- Architecture patterns for web, serverless, hybrid, and secure designs
-- Service selection guidance and comparison logic
-- Core AWS domains: compute, storage, networking, security, databases, serverless, monitoring, and cost optimization
-- Reflective practice notes to improve design reasoning
+1. Read `exam-overview.md`
+2. Follow `study-plans/detailed-review-checklist.md`
+3. Use `notes/README.md` to navigate topic notes
+4. Log mistakes in `practice-reflection/`
 
-## Repository structure
+## Networking Sprint
 
-- `README.md` — project purpose, scope, and portfolio context
-- `exam-overview.md` — study scope and focus areas for SAA-C03
-- `architecture-patterns.md` — common AWS solution patterns and trade-offs
-- `service-comparison.md` — comparison tables for AWS services and design decisions
-- `notes/` — focused topic notes for practical AWS architecture decisions
-- `diagrams/` — folder for architecture diagrams and visual summaries
-- `practice-reflection/` — reflections on design decisions and learning gaps
+- Core note: `notes/networking/vpc-networking.md`
+- Drill sheet: `notes/networking/networking-sprint-drills.md`
+- Wrong-question set: `notes/networking/network-wrong-questions.md`
 
-## Learning focus
+## Study Plans
 
-- Translating AWS service options into solution decisions
-- Articulating when to choose one service versus another
-- Understanding the architecture reasoning behind secure, scalable, and cost-aware designs
-- Preparing for cloud architect interviews with structured notes rather than memorization
-
-## How this relates to cloud architecture roles
-
-This repository emphasizes design thinking for solution architects and cloud infrastructure engineers by: 
-
-- documenting service choices and application patterns
-- highlighting operational and security trade-offs
-- explaining architecture flow and responsibility boundaries
-- bridging theory with use-case-based decisions
+- `study-plans/detailed-review-checklist.md`
+- `study-plans/personalized-exam-sprint-2026-05-07-to-05-11.md`
 
 ## Disclaimer
 
-This repository contains only personal study notes and original content. It does not include exam dumps, copied practice questions, copyrighted materials, or official AWS exam content.
-
-## Study roadmap
-
-- Start with the detailed execution list: `detailed-review-checklist.md`
-- Sprint plan (May 7-11, 2026): `personalized-exam-sprint-2026-05-07-to-05-11.md`
-
-## Networking sprint
-
-- Core note: `notes/vpc-networking.md`
-- Drill sheet: `notes/networking-sprint-drills.md`
+This repository contains personal study notes and original summaries only. It does not include exam dumps, copied proprietary content, or official AWS exam questions.
