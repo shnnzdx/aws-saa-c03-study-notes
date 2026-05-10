@@ -17,18 +17,20 @@
 
 ## Exam Cram Track
 
-- `exam-cram/01-systems-manager-and-ec2-iam.md`
-- `exam-cram/02-load-balancing-and-certificates.md`
-- `exam-cram/03-iam-kms-policy-model.md`
-- `exam-cram/04-s3-data-protection.md`
-- `exam-cram/05-api-and-app-security.md`
-- `exam-cram/06-networking-edge-cases.md`
-- `exam-cram/07-aurora-rds-endpoints.md`
-- `exam-cram/08-multi-account-governance.md`
-- `exam-cram/99-final-memory-cards.md`
+- `exam-cram/README.md`
+- `exam-cram/security/02-load-balancing-and-certificates.md`
+- `exam-cram/security/03-iam-kms-policy-model.md`
+- `exam-cram/security/05-api-and-app-security.md`
+- `exam-cram/resilience/04-s3-data-protection.md`
+- `exam-cram/performance/06-networking-edge-cases.md`
+- `exam-cram/performance/07-aurora-rds-endpoints.md`
+- `exam-cram/governance/01-systems-manager-and-ec2-iam.md`
+- `exam-cram/governance/08-multi-account-governance.md`
+- `exam-cram/final/99-final-memory-cards.md`
 
 ## How to use
 
 - Read one core topic note.
 - Do related practice questions.
+- Use `exam-cram/` for final review by domain.
 - Add misses to `practice-reflection/` and networking wrong-question files.
